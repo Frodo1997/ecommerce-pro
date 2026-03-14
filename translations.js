@@ -1,4 +1,4 @@
-export const translations = {
+ translations = {
   es: {
     title: "Tienda Online",
     add: "Agregar al carrito"
